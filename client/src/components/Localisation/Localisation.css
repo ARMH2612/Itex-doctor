@@ -1,0 +1,7 @@
+.localisation{
+    height: 428px;
+    background-image: url('../../assets/map.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
